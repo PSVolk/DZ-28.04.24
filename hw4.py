@@ -1,0 +1,6 @@
+a = ('To be')
+b = ('or not')
+c = ('to be')
+print(a)  
+print(b)
+print(c)
